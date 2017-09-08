@@ -1,6 +1,6 @@
 {
     "name": "inwendo/iw_client_latex_php",
-    "version": "1.0",
+    "version": "1.0.2",
     "description": "API Component for the inwendo Latex To PDF Converter",
     "keywords": [
         "swagger",
