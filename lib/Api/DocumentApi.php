@@ -73,7 +73,7 @@ class DocumentApi
     {
         if ($apiClient == null) {
             $apiClient = new ApiClient();
-            $apiClient->getConfig()->setHost('https://latex.service.inwendo.cloud/');
+            $apiClient->getConfig()->setHost('https://latex.service.inwendo.cloud');
         }
 
         $this->apiClient = $apiClient;
