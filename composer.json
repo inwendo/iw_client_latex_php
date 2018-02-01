@@ -8,11 +8,9 @@
         "sdk",
         "api"
     ],
-    "homepage": "http://swagger.io",
-    "license": "Apache v2",
     "authors": [{
-        "name": "Swagger and contributors",
-        "homepage": "https://github.com/swagger-api/swagger-codegen"
+        "name": "Enno Steppat",
+        "homepage": "https://inwendo.de"
     }],
     "require": {
         "php": ">=5.4",
